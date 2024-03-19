@@ -1,1 +1,1 @@
-developing website for shop
+developing website for online store
